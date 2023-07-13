@@ -1,16 +1,13 @@
-### Hi there 👋
+### Oi, eu sou o Mikaell 😀👍
+Sou um iniciante na programação, estou todo dia aprendendo coisas novas e tentando me aperfeiçoar.
 
-<!--
-**ImTheMikaell/ImTheMikaell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![ImTheMikaell GitHub stats](https://github-readme-stats.vercel.app/api?username=ImTheMikaell&show_icons=true&theme=highcontrast)
 
-Here are some ideas to get you started:
+## Tecnologias que estou aprendendo no momento:
+<div>
+    <img style="align: center;" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img style="align: center;" alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</div><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Pretendo aprender outras tecnologias e expandir meu conhecimento✍️
